@@ -1,0 +1,5 @@
+# CARA PASANG CLEO<
+1. Aktifkan Cleo Di Alyn
+2. Buka zarchiver lalu buat folder bernama "Cleo"
+3. Buat folder baru di dalam Cleo bernama "sa"
+4. Tempel cleo anda ke dalam folder itu
