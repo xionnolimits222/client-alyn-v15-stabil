@@ -1,0 +1,4 @@
+# CARA PASANG MONETLOADER
+1. Aktifkan MonetLoader di Alyn
+2. Buka zarchiver
+3. Masuk ke Android -> Media -> (pasang disini)
